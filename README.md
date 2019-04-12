@@ -10,7 +10,7 @@ bundle install
 cp config/database.yml.example config/database.yml
 ```
 
-Далее необходимо сконфигурировать файлы config/database.yml и config/secrets.yml по аналогии с приведенным образцом.
+Далее необходимо сконфигурировать файлы config/database.yml по аналогии с приведенным образцом.
 
 Затем подготавливаем базу данных:
 
